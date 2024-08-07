@@ -16,4 +16,4 @@
 
 ## 📫 Contact 📫
 - 📧 eMail: astralstell@gmail.com
-- 🌐 ウェブサイト: [DiscordServer](https://discord.com)
+- 🌐 Website: [DiscordServer](https://discord.com)
